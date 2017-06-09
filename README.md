@@ -14,12 +14,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/road_center.png "Sample Image"
-[image2]: ./examples/road_flip.png   "Flipped version of the Sample Image"
-[image3]: ./examples/road_left.png  "Sample Image From Left Camera"
-[image4]: ./examples/road_right.png "Sample Image From Right Camera"
-[image5]: ./examples/orig_data_hist.png  "Original Data Distribution"
-[image6]: ./examples/augm_data_hist.png  "Augmented Data Distribution"
+[image1]: ./examples/road_center.png 			"Sample Image"
+[image2]: ./examples/road_flip.png   			"Flipped version of the Sample Image"
+[image3]: ./examples/road_left.png  			"Sample Image From Left Camera"
+[image4]: ./examples/road_right.png 			"Sample Image From Right Camera"
+[image5]: ./examples/orig_data_hist.png  		"Original Data Distribution"
+[image6]: ./examples/augm_data_hist.png  		"Augmented Data Distribution"
 [image7]: ./examples/center_2017_04_15_22_46_59_452.png "Close to Edge"
 [image8]: ./examples/center_2017_04_15_22_47_05_906.png "Begin Recovery"
 [image9]: ./examples/center_2017_04_15_22_47_06_136.png "Continue Recovery"
